@@ -34,7 +34,7 @@ Proje standart Java kütüphanelerini kullanır, harici bir bağımlılık gerek
 
 1.  **Repoyu Klonlayın:**
     ```bash
-    git clone [[https://github.com/kullaniciadi/softmax-load-balancer.git](https://github.com/kullaniciadi/softmax-load-balancer.git](https://github.com/berkayilimen/softmax-load-balancer/blob/main/SoftmaxLoadBalancer.java))
+    git clone [https://github.com/berkayilimen/softmax-load-balancer.git](https://github.com/berkayilimen/softmax-load-balancer.git)
     ```
 2.  **Kaynak Klasörüne Gidin:**
     ```bash
